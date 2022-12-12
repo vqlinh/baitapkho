@@ -18,8 +18,17 @@
 </script>
                                 
 <style scoped>
+*{
+    margin: 0;
+    padding: 0;
+    
+}
 hr{
     width: 100%;
 }
-
+.menu-top{
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+}
 </style>>

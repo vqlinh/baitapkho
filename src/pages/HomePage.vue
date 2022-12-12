@@ -446,6 +446,6 @@ list-style: none;
 
 .box-sider-bar {
     border: 1px solid var(--border);
-    padding: 10px;
+    /* padding: 10px; */
 }
 </style>
